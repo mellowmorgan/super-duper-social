@@ -9,10 +9,20 @@ function App() {
   return (
     <React.Fragment>
       <Nav /> 
-      <Profile />
-      <About />
-      <NewsFeed />
-      <SuggestedFriendsList />
+      <div class="container-fluid">
+        <div class="row">
+          <div class="column col-3">
+            <Profile />
+            <About />
+          </div>
+          <div class="column col-6">
+            <div className="news-feed"><NewsFeed /></div>
+          </div>
+          <div class="column col-3" id="suggested-friends">
+            <SuggestedFriendsList />
+          </div>
+        </div>
+      </div>
     </React.Fragment>
   );
 }

@@ -5,8 +5,8 @@ import NewsFeedSubmitPost from "./NewsFeedSubmitPost";
 function NewsFeed(){
   return (
     <React.Fragment>
-      <NewsFeedSubmitPost />
-      <NewsFeedPost />      
+        <NewsFeedSubmitPost />
+        <NewsFeedPost /> 
     </React.Fragment >      
   )
 }
