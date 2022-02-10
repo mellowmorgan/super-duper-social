@@ -4,6 +4,8 @@
 
 #### Mock visual representation front end of social media app
 
+![Alt text](./src/img/diagram.png?raw=true "Component Diagram")
+
 ## Technologies Used
 
 * _React library_
