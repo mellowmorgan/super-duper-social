@@ -1,3 +1,21 @@
+# Social Media Mock App
+
+## By: Morgan Waites, Kate Kiatsiri, Katie Pundt, Matt Luker
+
+#### Mock visual representation front end of social media app
+
+## Technologies Used
+
+* _React library_
+* _Javascript_
+* _Node_
+* _Webpack_
+* _Babel_
+
+## Description
+
+Shows proficiency in component-driven developement with React. Displays front end design of social media app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +86,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## License
+
+[MIT](https://opensource.org/licenses/MIT) Copyright (c) 2022 Morgan Waites, Kate Kiatsiri, Katie Pundt, Matt Luker
